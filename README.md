@@ -1,4 +1,7 @@
 ### Hi there 👋
+[![Mario Souto's github stats](https://github-readme-stats.vercel.app/api?username=IzabellaGiovana&theme=dark&show_icons=true&count_private=true)](https://github.com/IzabellaGiovana)
+
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/izabella-giovana-508318182/)
 
 <!--
 **IzabellaGiovana/IzabellaGiovana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
